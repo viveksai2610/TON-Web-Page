@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+body {
+    font-family:  sans-serif;
+    color: #000;
+}
+
+.hero {
+    padding: 80px 0;
+}
+
+.hero h1 {
+    font-size: 2.8rem;
+    font-weight: 600;
+}
+
+.hero p {
+    font-size: 1rem;
+    color: #555;
+}
+
+.discover a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    display: block;
+    margin-top: 10px;
+}
+
+.training-section h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 40px 0 20px;
+}
+
+.training-card {
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    color: #fff;
+}
+
+.training-card .card-body {
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+}
+
+.insight-section {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+}
+
+.insight-section h3 {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.cta-btn {
+    background-color: #000;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+}
+
+.footer-video {
+    background-color: #eaeaea;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.footer-image p {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.brand-logos {
+    color: #ffffff;
+    margin: 0 10px;
+    height: 24px;
+}
