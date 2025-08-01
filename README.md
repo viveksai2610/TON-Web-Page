@@ -12,12 +12,11 @@ Pixel-perfect and responsive clone of the TON landing page using HTML, CSS, and 
 - **CSS3**
 - **Bootstrap 5**
 
-### Setup Instructions
+# Setup Instructions
 
-# 1. Clone the Repository
-git clone https://github.com/viveksai2610/TON-Web-Page.git
-cd TON-Web-Page
+## 1. Clone the Repository
+- git clone https://github.com/viveksai2610/TON-Web-Page.git
+- cd TON-Web-Page
 
-# 2. Run Locally:
-Just open the index.html file in your browser:
-start index.html
+## 2. Run Locally:
+- start index.html
